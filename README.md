@@ -1,4 +1,4 @@
-# Web-Extraxtor
+# Web-Extractor
 Extract Data from Uniapply.com
 
 Install Extention from Chrome-web-store
